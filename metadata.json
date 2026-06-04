@@ -1,0 +1,6 @@
+{
+  "name": "MoneyTree Terminal",
+  "description": "A dark, high-fidelity elite trading terminal with support for multi-venue equity brokers and crypto exchanges, secure credential vaulting, paper portfolios, and live simulation feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AQ."]
+}
